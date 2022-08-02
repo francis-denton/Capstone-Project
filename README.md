@@ -28,7 +28,7 @@
 
 	Whiteboards offer a space where teachers can show their assignments and what needs to be done. When visible, students can see the teacher's written notes about what homework is assigned and plan accordingly. Through using a whiteboard, teachers are able to communicate anything they want about a homework assignment, but only when class is in session. When students are outside of the classroom or at home, they are not able to see the homework assigned, which often leads to students forgetting about homework assignments.
 5.  GOOGLE PATENTS RESEARCH.
-https://patents.google.com/patent/US9558475 - Location based to-do list reminders(Avaya)
+https://patents.google.com/patent/US9558475/en - Location based to-do list reminders(Avaya)
 	
 	Reminds a user to complete a task based off of a geographical location.
 	Pros: Would be able to remind you to do homework at home or turn in homework at school
@@ -47,14 +47,14 @@ https://patents.google.com/patent/US10241644B2/en - Actionable reminder entries(
 	Cons: Would be difficult to make sure the app would recognize that the action was completed, and the user needs to create the reminder
 
 
-https://patents.google.com/patent/US10977621B2/en - Action based to-do list
+https://patents.google.com/patent/US10977621B2/en - Action based to-do list(IBM)
 	
 	This program creates a to-do list and updates it according to the user’s actions.
 	Pros: Utilizes different actions to determine if the task has been completed to automatically update the list
 	Cons: Must be manually updated to add assignments
 
 
-https://patents.google.com/patent/US10453325B2/en?q=create+reminders&oq=create+reminders - Creation of reminders using activity state of application
+https://patents.google.com/patent/US10453325B2/en - Creation of reminders using activity state of application(Apple)
 
 	This product will update a list of reminders once an activity state (a screen showing that a task has been completed) has been reached
 	Pros: Way to automatically update a to-do list and tell the user what they still need to complete
